@@ -18,7 +18,6 @@ print(f"Worst Return Day: {worst_day}")
 print(f"Return: {df['Return'][worst_day]:.2f}%")
 
 plt.figure(figsize=(14, 7))
-plt.subplot(2, 1, 1)
 plt.plot(df.index, df["Close"], label="Close Price")
 plt.plot(df.index, df["MA20"], label="MA20")
 plt.plot(df.index, df["MA50"], label="MA50")
