@@ -15,7 +15,7 @@ at chulalongkorn university starting 2026.
 - [x] week 5.5 — tuple, set, file I/O, error handling
 - [x] week 6 — pandas, yfinance (in progress)
 - [x] week 7 — matplotlib, data visualization
-- [ ] week 8 — real market data analysis
+- [ ] week 8 — statistics & probability (core concept required)
 
 ## note to self
 > consistency over intensity
