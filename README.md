@@ -14,7 +14,7 @@ at chulalongkorn university starting 2026.
 - [x] week 5 — numpy, monte carlo simulation
 - [x] week 5.5 — tuple, set, file I/O, error handling
 - [x] week 6 — pandas, yfinance (in progress)
-- [ ] week 7 — matplotlib, data visualization
+- [x] week 7 — matplotlib, data visualization
 - [ ] week 8 — real market data analysis
 
 ## note to self
